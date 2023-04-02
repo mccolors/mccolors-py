@@ -18,6 +18,6 @@ print(text)
 ```python
 from mccolor import mcremove
 
-text = mcreplace('§aThis is green &fand &cthis is red!')
+text = mcremove('§aThis is green &fand &cthis is red!')
 print(text)
 ```
