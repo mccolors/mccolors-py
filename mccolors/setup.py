@@ -14,7 +14,6 @@ setup(
     license='MIT License',
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: Your License',
         'Operating System :: OS Independent',
     ],
     install_requires=[],
