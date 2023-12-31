@@ -7,7 +7,7 @@ MCColors is a Python module that allows you to handle Minecraft-style color code
 You can install MCColors using pip:
 
 ```bash
-pip install MCColors
+pip install mccolors
 ```
 
 ## Usage
