@@ -13,7 +13,7 @@ pip install mccolors
 ## Usage
 
 ```python
-from MCColors import mcwrite, mcreplace, mcremove
+from mccolors import mcwrite, mcreplace, mcremove
 
 # Writing text with Minecraft color codes
 mcwrite('&4Hello &rWorld!', reset_all=True)
