@@ -1,4 +1,4 @@
-from mccolors.mccolors import mcwrite, mcreplace, mcremove
+from mccolors import mcwrite, mcreplace, mcremove
 
 # Example of writing text with Minecraft colors
 print("Example of writing text with Minecraft colors:")
